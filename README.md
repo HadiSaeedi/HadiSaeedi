@@ -1,5 +1,8 @@
-### Hi there 👋,I'm
-Hadi Saeedi
+
+<h1 align="center" >
+  ### Hi there 👋,I'm
+    Hadi Saeedi
+</h1>
 
 <!--
 **HadiSaeedi/HadiSaeedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
