@@ -1,6 +1,6 @@
 <h1 align="center" >
   Hi there 👋,I'm
-    Hadi Saeedi<br/>
+    Hadi Saeedi<br>
 </h1>
 
 <!--
